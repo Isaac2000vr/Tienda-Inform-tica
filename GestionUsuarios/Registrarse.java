@@ -148,3 +148,4 @@ public class Registrarse extends javax.swing.JFrame {
     private javax.swing.JTextField user;
     // End of variables declaration//GEN-END:variables
 }
+
